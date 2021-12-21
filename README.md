@@ -6,7 +6,7 @@
 
 🔭 I’m currently working on projects to my portfolio
 
-:dizzy: In my spare time (which is not very often) I like code wars - it really helps me to understand fundamentals of JS
+:dizzy: In my free time I like the code wars website - it really helps me to understand fundamentals of JS
 
 ![](https://www.codewars.com/users/SzymonRojek/badges/large)
 
