@@ -4,7 +4,7 @@
 
 ### I'm Szymon Rojek 👋
 
-🔭 I’m currently working on projects to my portfolio
+🔭 I’m currently working as a Test Engineer. Love my job! 
 
 :dizzy: In my free time I like the code wars website - it really helps me to understand fundamentals of JS
 
